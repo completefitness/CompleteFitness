@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Barbell Bench Press",
+    "log_reps": true,
+    "log_weight": true,
+    "log_distance": false,
+    "log_time": false
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "log_reps": true,
+    "log_weight": true,
+    "log_distance": false,
+    "log_time": false
+  }
+] 
